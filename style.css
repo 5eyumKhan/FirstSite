@@ -1,0 +1,1536 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hi{
+    text-align: center;
+    background-color: #f7f7f7;
+    color: #717171;
+    font-family: 'Oswald', sans-serif;
+}
+
+.input_email{
+    display: block;
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.btn-1{
+    display: block;
+    width: 100px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.btn-2{
+    display: block;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.image_1{
+    display: block;
+    width: 259px;
+    margin: auto;
+    margin-top: 10px;
+    
+}
+
+.image_1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: .5s ease;
+}
+
+.link_1{
+    text-decoration: none;
+    color: black;
+}
+
+@media only screen and (min-width: 508px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 500px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 411px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 500px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 731px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 300px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 360px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 320px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 300px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 375px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 414px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 375px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 300px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 700px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 540px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 300px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 653px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 300px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 671px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 500px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 693px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 500px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 499px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 289px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 262px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 258px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 256px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 254px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 250px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 242px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 259px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 200px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 150px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 100px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 255px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 200px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 198px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
+  @media only screen and (max-width: 96px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hi{
+        text-align: center;
+        background-color: #f7f7f7;
+        color: #717171;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    .input_email{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .btn-2{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+    }
+    
+    .image_1{
+        display: block;
+        width: 100px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+    
+    .image_1:hover{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: .5s ease;
+    }
+    
+    .link_1{
+        text-decoration: none;
+        color: black;
+    }
+  }
+
